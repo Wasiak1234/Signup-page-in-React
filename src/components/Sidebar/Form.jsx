@@ -18,6 +18,7 @@ const Input = styled.input`
   font-weight: 300;
   font-size: 18px;
   line-height: 21px;
+  outline: none;
 
   color: #343434;
 
@@ -40,6 +41,10 @@ const Input = styled.input`
       width: 100vw;
       margin-right: 0;
       margin: 0 auto;
+  }
+
+  @media screen and (max-width: 1400px) {
+    padding: .5rem;
   }
 `;
 const ValidCircle = styled.div`

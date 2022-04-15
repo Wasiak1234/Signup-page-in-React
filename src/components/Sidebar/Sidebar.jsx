@@ -16,8 +16,12 @@ const Container = styled.aside`
 
   @media screen and (max-width: 1200px) {
       width: 100%;
-      height: 100vh;
+      height: 100%;
   }
+
+
+
+
   
 `;
 
@@ -26,10 +30,10 @@ const Logo = styled.img`
   height: 125px;
   margin-top: 88px;
 
-  @media screen and (max-width: 1200px){
-      margin: 0;
-      width: 80px;
-      height: 80px;
+  @media screen and (max-width: 1400px) {
+      margin-top: 0;
+      width: 85px;
+      height: 85px;
   }
 
 `;
@@ -38,6 +42,7 @@ const LogoText = styled.img`
   width: 97px;
   height: 33px;
   margin-bottom: 30px;
+
 
 
 `;

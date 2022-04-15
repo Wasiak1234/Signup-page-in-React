@@ -16,12 +16,21 @@ const LogoText = styled.h1`
   z-index: 100;
 
   color: #343434;
+
+  @media screen and (max-width: 1400px) {
+    top: 221px;
+  }
 `;
 
 const Mesh = styled.img`
   position: fixed;
   top: 394px;
   left: 937px;
+
+  @media screen and (max-width: 1400px) {
+    top: 232px;
+    z-index: 10;
+  }
 `;
 const Hero = () => {
   return (
