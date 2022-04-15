@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Signup-page-in-React/static/js/main.bccce10d.chunk.js",
+    "main.js.map": "/Signup-page-in-React/static/js/main.bccce10d.chunk.js.map",
+    "runtime-main.js": "/Signup-page-in-React/static/js/runtime-main.bd101893.js",
+    "runtime-main.js.map": "/Signup-page-in-React/static/js/runtime-main.bd101893.js.map",
+    "static/js/2.b3fe6f4e.chunk.js": "/Signup-page-in-React/static/js/2.b3fe6f4e.chunk.js",
+    "static/js/2.b3fe6f4e.chunk.js.map": "/Signup-page-in-React/static/js/2.b3fe6f4e.chunk.js.map",
+    "index.html": "/Signup-page-in-React/index.html",
+    "static/js/2.b3fe6f4e.chunk.js.LICENSE.txt": "/Signup-page-in-React/static/js/2.b3fe6f4e.chunk.js.LICENSE.txt",
+    "static/media/Rectangle.d90990d4.svg": "/Signup-page-in-React/static/media/Rectangle.d90990d4.svg",
+    "static/media/logo.6c6a3b38.svg": "/Signup-page-in-React/static/media/logo.6c6a3b38.svg",
+    "static/media/logoText.0a290ce4.svg": "/Signup-page-in-React/static/media/logoText.0a290ce4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd101893.js",
+    "static/js/2.b3fe6f4e.chunk.js",
+    "static/js/main.bccce10d.chunk.js"
+  ]
+}
